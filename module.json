@@ -1,0 +1,198 @@
+{   
+ 	"name": "SharedData",   
+ 	"title": "Shared Data",   
+ 	"description": "Sharing data across worlds",   
+ 	"author": "Lucas",
+ 	"version": "1.0.0",
+ 	"minimumCoreVersion": "0.5.0",
+	"compatibleCoreVersion":"0.9.255",
+	"download": "https://github.com/lucasparodi98/foundry-shareddata-spanish/archive/refs/heads/master.zip",
+	"manifest": "https://raw.githubusercontent.com/lucasparodi98/foundry-shareddata-spanish/master/module.json",
+	"esmodules": [
+    "./js/clases.js"
+	],
+	"packs": [
+    {
+      "name": "objetos",
+      "label": "Objetos",
+      "path": "packs/objetos.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "objetos-homebrew",
+      "label": "Objetos Homebrew",
+      "path": "packs/objetos-homebrew.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "monstruos",
+      "label": "Monstruos",
+      "path": "packs/monstruos.db",
+      "entity": "Actor",
+      "module": "SharedData"
+    },
+    {
+      "name": "monstruos-homebrew",
+      "label": "Monstruos Homebrew",
+      "path": "packs/monstruos-homebrew.db",
+      "entity": "Actor",
+      "module": "SharedData"
+    },
+    {
+      "name": "npc",
+      "label": "NPC",
+      "path": "packs/npc.db",
+      "entity": "Actor",
+      "module": "SharedData"
+    },
+    {
+      "name": "pc",
+      "label": "PC",
+      "path": "packs/pc.db",
+      "entity": "Actor",
+      "module": "SharedData"
+    },
+    {
+      "name": "escenarios",
+      "label": "Escenarios",
+      "path": "packs/escenarios.db",
+      "entity": "Scene",
+      "module": "SharedData"
+    },
+    {
+      "name": "clases",
+      "label": "Clases",
+      "path": "packs/clases.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "razas",
+      "label": "Razas",
+      "path": "packs/razas.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "rasgos",
+      "label": "Rasgos",
+      "path": "packs/rasgos.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "rasgos-homebrew",
+      "label": "Rasgos Homebrew",
+      "path": "packs/rasgos-homebrew.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "rasgos-razas",
+      "label": "Rasgos Raciales",
+      "path": "packs/rasgos-razas.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "rasgos-clases",
+      "label": "Rasgos Clases",
+      "path": "packs/rasgos-clases.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "rasgos-trasfondos",
+      "label": "Rasgos Trasfondos",
+      "path": "packs/rasgos-trasfondos.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "mis-macros",
+      "label": "Mis Macros",
+      "path": "packs/mis-macros.db",
+      "entity": "Macro",
+      "module": "SharedData"
+    },
+    {
+      "name": "journal",
+      "label": "Documentos",
+      "path": "packs/journal.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "personajes-importantes",
+      "label": "Personajes Importantes",
+      "path": "packs/personajes-importantes.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "lugares",
+      "label": "Lugares",
+      "path": "packs/lugares.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "dioses",
+      "label": "Dioses",
+      "path": "packs/dioses.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "reinos-olvidados",
+      "label": "Reinos Olvidados",
+      "path": "packs/reinos-olvidados.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "facciones",
+      "label": "Facciones",
+      "path": "packs/facciones.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "reglas",
+      "label": "Reglas",
+      "path": "packs/reglas.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "homebrew-reglas",
+      "label": "Reglas Homebrew",
+      "path": "packs/homebrew-reglas.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "historia",
+      "label": "Historia",
+      "path": "packs/historia.db",
+      "entity": "JournalEntry",
+      "module": "SharedData"
+    },
+    {
+      "name": "tablas",
+      "label": "Tablas",
+      "path": "packs/tablas.db",
+      "entity": "RollTable",
+      "module": "SharedData"
+    },
+    {
+      "name": "conjuros",
+      "label": "Conjuros",
+      "path": "packs/conjuros.db",
+      "entity": "Item",
+      "module": "SharedData"
+    }
+  ]
+ }
