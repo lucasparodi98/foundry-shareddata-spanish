@@ -1,0 +1,13 @@
+Versión 1.01:
+- Conjuros	
+	Desintegrar		 			(PHB)
+	Dominar Monstruo 			(PHB)
+	Muro de Fuerza				(PHB)
+- Monstruos	
+	Arpía 						(PHB)
+	Azer 						(PHB)
+	Azotamentes					(PHB)
+	Azotamentes Arcanista 		(PHB)
+	Ent Sollozante				(CC)
+	Maestro de Foso Yuan-ti 	(VGTE)
+	Naga Espiritual 			(PHB)
