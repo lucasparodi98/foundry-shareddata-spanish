@@ -1,3 +1,13 @@
+Versión 1.03:
+	-
+	-
+	-
+	-Monstruos
+		Banshee						(MM)
+		Basilisco					(MM)
+		Bocón Barbotante			(MM)
+	-
+
 Versión 1.02:
 	-Objetos Mágicos
 		Tatuaje de Conjuro (Nivel 3)(TCOE)
