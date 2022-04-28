@@ -1,12 +1,12 @@
+Versión 1.04:
+	- SubClases
+		Monje: Camino del Yo Astral (TCOE)
+
 Versión 1.03:
-	-
-	-
-	-
 	-Monstruos
 		Banshee						(MM)
 		Basilisco					(MM)
 		Bocón Barbotante			(MM)
-	-
 
 Versión 1.02:
 	-Objetos Mágicos

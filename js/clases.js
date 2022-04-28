@@ -569,6 +569,16 @@ Hooks.on("ready", () => {
          "11": ["Compendium.SharedData.rasgos.aquGZ83nWVqTNPEt"],
          "17": ["Compendium.SharedData.rasgos.ujpRuH7oNjg7Tn4M"]
        }
+     },
+     "camino-del-yo-astral": {
+       "label": "Camino del Yo Astral",
+       "source": "TCOE pg. 50",
+       "features": {
+         "3": ["Compendium.SharedData.rasgos.oEkc6JHKzU4xYQB6"],
+         "6": ["Compendium.SharedData.rasgos.bOdVBOtlOSbP96me"],
+         "11": ["Compendium.SharedData.rasgos.p6WcOq5p8edDWPYc"],
+         "17": ["Compendium.SharedData.rasgos.vHiP0NVwCxDSUj8g"]
+       }
      }
    },
    "features": {
