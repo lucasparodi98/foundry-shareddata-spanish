@@ -76,6 +76,13 @@
       "module": "SharedData"
     },
     {
+      "name": "subclases",
+      "label": "Subclases",
+      "path": "packs/subclase.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
       "name": "rasgos",
       "label": "Rasgos",
       "path": "packs/rasgos.db",

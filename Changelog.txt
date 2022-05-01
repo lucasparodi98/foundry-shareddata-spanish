@@ -2,6 +2,12 @@ Versión 1.04:
 	- SubClases
 		Monje: Camino del Yo Astral (TCOE)
 
+	-Monstruos
+		Behir						(MM)
+		Bestia Trémula				(MM)
+		Broza Movediza				(MM)
+		Bulette						(MM)
+
 Versión 1.03:
 	-Monstruos
 		Banshee						(MM)
