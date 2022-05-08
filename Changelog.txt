@@ -1,5 +1,14 @@
 Versión 1.04:
+	-Clases
+		Bárbaro - Reconfigurado		(PHB)
 	- SubClases
+		Bárbaro: Senda de la bestia - Reconfigurado
+		Bárbaro: Senda del berserker - Reconfigurado
+		Bárbaro: Senda del Camorrista (SCAG)
+		Bárbaro: Senda del Fanatico (XGTE)
+		Bárbaro: Senda del guardian ancestral - Reconfigurado
+		Bárbaro: Senda del guerrero totemico - Reconfigurado
+		Bárbaro: Senda del Heraldo de la Tormenta (XGTE)
 		Monje: Camino del Yo Astral (TCOE)
 
 	-Monstruos
