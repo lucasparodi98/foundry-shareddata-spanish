@@ -1,6 +1,9 @@
 Versión 1.04:
 	-Clases
+		Artífice - Reconfigurado	(PHB)
 		Bárbaro - Reconfigurado		(PHB)
+		Bardo - Reconfigurado		(PHB)
+		Monje - Reconfigurado		(PHB)
 	- SubClases
 		Bárbaro: Senda de la bestia - Reconfigurado
 		Bárbaro: Senda del berserker - Reconfigurado
@@ -9,7 +12,19 @@ Versión 1.04:
 		Bárbaro: Senda del guardian ancestral - Reconfigurado
 		Bárbaro: Senda del guerrero totemico - Reconfigurado
 		Bárbaro: Senda del Heraldo de la Tormenta (XGTE)
+
+
+
+		Monje: Camino de la Mano Abierta - Reconfigurado
+		Monje: Camino de la Misericordia - Reconfigurado
+		Monje: Camino de la Sombra - Reconfigurado
 		Monje: Camino del Yo Astral (TCOE)
+
+		
+	-Conjuros
+		Arma Espiritual - Reconfigurado	(PHB)
+		Invocar Bestias (con macro)	(TCOE)
+
 
 	-Monstruos
 		Behir						(MM)
