@@ -1,36 +1,44 @@
+https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
+
 Versión 1.04:
 	-Clases
-		Artífice - Reconfigurado	(PHB)
-		Bárbaro - Reconfigurado		(PHB)
-		Bardo - Reconfigurado		(PHB)
-		Monje - Reconfigurado		(PHB)
+		Artífice - Reconfigurado	
+		Bárbaro - Reconfigurado	
+		Bardo - Reconfigurado	
+		Monje - Reconfigurado
 	- SubClases
 		Bárbaro: Senda de la bestia - Reconfigurado
 		Bárbaro: Senda del berserker - Reconfigurado
-		Bárbaro: Senda del Camorrista (SCAG)
-		Bárbaro: Senda del Fanatico (XGTE)
+		Bárbaro: Senda del Camorrista
+		Bárbaro: Senda del Fanatico
 		Bárbaro: Senda del guardian ancestral - Reconfigurado
 		Bárbaro: Senda del guerrero totemico - Reconfigurado
-		Bárbaro: Senda del Heraldo de la Tormenta (XGTE)
-
-
-
+		Bárbaro: Senda del Heraldo de la Tormenta
 		Monje: Camino de la Mano Abierta - Reconfigurado
 		Monje: Camino de la Misericordia - Reconfigurado
 		Monje: Camino de la Sombra - Reconfigurado
-		Monje: Camino del Yo Astral (TCOE)
+		Monje: Camino del Yo Astral
 
-		
 	-Conjuros
-		Arma Espiritual - Reconfigurado	(PHB)
-		Invocar Bestias (con macro)	(TCOE)
-
+		Arma Espiritual - Reconfigurado	
+		Invocar Bestias (con macro)
+		Impuesto a los muertos - Reconfigurado
+		Castigo Abrasador - Reconfigurado
+		Castigo Furioso - Reconfigurado
+		Castigo Marcador - Reconfigurado
+		Castigo Abrumador
+		Castigo Atronador - Reconfigurado
 
 	-Monstruos
-		Behir						(MM)
-		Bestia Trémula				(MM)
-		Broza Movediza				(MM)
-		Bulette						(MM)
+		Behir
+		Bestia Trémula		
+		Broza Movediza	
+		Bulette	
+		Cría de Dragón Blanco		
+		Cría de Dragón de Cristal	
+		Mephit de Hielo				
+		Golem de Nieve
+		Duende de Hielo
 
 Versión 1.03:
 	-Monstruos
