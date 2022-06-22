@@ -3,7 +3,7 @@
  	"title": "Shared Data",   
  	"description": "Archivo compartido en Español para Dnd5e",   
  	"author": "Lucas",
- 	"version": "1.05",
+ 	"version": "1.06",
  	"minimumCoreVersion": "9",
 	"compatibleCoreVersion":"9",
 	"download": "https://github.com/lucasparodi98/foundry-shareddata-spanish/archive/refs/heads/master.zip",
@@ -114,6 +114,13 @@
       "name": "rasgos-trasfondos",
       "label": "Rasgos Trasfondos",
       "path": "packs/rasgos-trasfondos.db",
+      "entity": "Item",
+      "module": "SharedData"
+    },
+    {
+      "name": "trasfondos",
+      "label": "Trasfondos",
+      "path": "packs/trasfondos.db",
       "entity": "Item",
       "module": "SharedData"
     },

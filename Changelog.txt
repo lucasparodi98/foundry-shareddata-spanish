@@ -1,5 +1,30 @@
 https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
 
+Versión 1.06:
+	-Clases
+		Clérigo - Reconfigurado
+		Brujo - Reconfigurado
+		Pícaro - Reconfigurado
+
+	-SubClases
+		Brujo: El Hexblade
+		Clérigo: Dominio de la Tumba
+		Clérigo: Dominio de la Vida - Reconfigurado
+		Pícaro: Ladrón - Reconfigurado
+
+	-Conjuros
+		Castigo Desterrador
+		Marca del Cazador - Macro
+
+	-Monstruos
+		Caballero de la Muerte
+
+	-Trasfondos
+		Acólito
+		Criminal
+
+		
+
 Versión 1.04:
 	-Clases
 		Artífice - Reconfigurado	
