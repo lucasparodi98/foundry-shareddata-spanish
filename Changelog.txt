@@ -1,5 +1,27 @@
 https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
 
+Versión 1.07:
+	-Clases
+		
+
+	-SubClases
+		
+
+	-Conjuros
+		
+
+	-Monstruos
+		
+
+	-Trasfondos
+
+	-Razas
+		Kobold (MPMM)
+
+	-Rasgos
+		Movil
+		
+
 Versión 1.06:
 	-Clases
 		Clérigo - Reconfigurado
