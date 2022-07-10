@@ -8,7 +8,7 @@ Versión 1.07:
 		
 
 	-Conjuros
-		
+		Hoja Resonante - Reconfigurado
 
 	-Monstruos
 		
@@ -19,6 +19,7 @@ Versión 1.07:
 		Kobold (MPMM)
 
 	-Rasgos
+		Aura de Protección - Reconfigurado
 		Movil
 		
 
