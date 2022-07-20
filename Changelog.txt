@@ -14,6 +14,12 @@ Versión 1.07:
 		Almiraj
 		Cambion
 		Carroñero Reptante
+		Chuul
+		Cíclope
+		Cieno Gris Psíquico
+		Gelatina Ocre
+		Cubo Gelatinoso
+		
 
 	-Trasfondos
 
