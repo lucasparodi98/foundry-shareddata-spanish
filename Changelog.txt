@@ -19,6 +19,7 @@ Versión 1.07:
 		Cieno Gris Psíquico
 		Gelatina Ocre
 		Cubo Gelatinoso
+		Estatua de Piedra/Hierro/Madera Animada
 		
 
 	-Trasfondos
