@@ -5,13 +5,15 @@ Versión 1.07:
 		
 
 	-SubClases
-		
+		Bardo: Colegio de la Creación
 
 	-Conjuros
 		Hoja Resonante - Reconfigurado
 
 	-Monstruos
+		Abisahi Blanco
 		Almiraj
+		Brujo del Infernal
 		Cambion
 		Carroñero Reptante
 		Chuul
