@@ -3,7 +3,6 @@ https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
 Versión 1.07:
 	-Clases
 		
-
 	-SubClases
 		Bardo: Colegio de la Creación
 
@@ -21,8 +20,19 @@ Versión 1.07:
 		Cieno Gris Psíquico
 		Gelatina Ocre
 		Cubo Gelatinoso
-		Estatua de Piedra/Hierro/Madera Animada
-		
+		Contemplador
+		Estatua de Piedra/Hierro/Madera Animada (Monster Manual Expanded)
+		Mimeto
+
+	-Objetos
+		Aceite de Afilado - Reconfigurado
+		Agujero Portátil
+		Alas de Vuelo
+		Amuleto a Prueba de Detección y Localización
+		Anillo de Calidez
+		Anteojos de Vista Minuciuosa
+		Gorro de Respirar Bajo el Agua
+		Poción de Respirar bajo el agua
 
 	-Trasfondos
 
