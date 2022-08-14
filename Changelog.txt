@@ -23,6 +23,9 @@ Versión 1.07:
 		Contemplador
 		Estatua de Piedra/Hierro/Madera Animada (Monster Manual Expanded)
 		Mimeto
+		Sahuagin
+		Tiburón Gigante
+		Dragon Tortuga Adulto
 
 	-Objetos
 		Aceite de Afilado - Reconfigurado
@@ -33,6 +36,8 @@ Versión 1.07:
 		Anteojos de Vista Minuciuosa
 		Gorro de Respirar Bajo el Agua
 		Poción de Respirar bajo el agua
+		Dados del Adivino
+		Escudo +3
 
 	-Trasfondos
 
