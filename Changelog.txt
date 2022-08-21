@@ -24,8 +24,12 @@ Versión 1.07:
 		Estatua de Piedra/Hierro/Madera Animada (Monster Manual Expanded)
 		Mimeto
 		Sahuagin
+		Sacerdotisa Sahuagin
+		Barón Sahuagin
 		Tiburón Gigante
 		Dragon Tortuga Adulto
+		Señor de los Bandidos
+
 
 	-Objetos
 		Aceite de Afilado - Reconfigurado
@@ -38,6 +42,7 @@ Versión 1.07:
 		Poción de Respirar bajo el agua
 		Dados del Adivino
 		Escudo +3
+		Flauta de la Aparición
 
 	-Trasfondos
 
