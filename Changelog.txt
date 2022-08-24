@@ -29,6 +29,8 @@ Versión 1.07:
 		Tiburón Gigante
 		Dragon Tortuga Adulto
 		Señor de los Bandidos
+		Esqueleto Decrépito
+		Esqueleto Ardiente
 
 
 	-Objetos
