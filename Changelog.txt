@@ -31,6 +31,8 @@ Versión 1.07:
 		Señor de los Bandidos
 		Esqueleto Decrépito
 		Esqueleto Ardiente
+		Orco - Reconfigurado
+		Caudillo Orco
 
 
 	-Objetos
