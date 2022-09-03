@@ -5,9 +5,14 @@ Versión 1.07:
 		
 	-SubClases
 		Bardo: Colegio de la Creación
+		Bardo: Colegio de la Elocuencia
+		Bardo: Colegio de las Espadas
+		Barbaro: Senda de la magia Salvaje
 
 	-Conjuros
 		Hoja Resonante - Reconfigurado
+		Escopeta- Conjure Barrage
+		Disparo Explosivo - Lighting arrow
 
 	-Monstruos
 		Abisahi Blanco
@@ -33,6 +38,8 @@ Versión 1.07:
 		Esqueleto Ardiente
 		Orco - Reconfigurado
 		Caudillo Orco
+		Esqueleto de Dragón de Bronce Adulto
+		Tressalhidra
 
 
 	-Objetos
