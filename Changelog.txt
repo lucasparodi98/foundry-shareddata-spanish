@@ -1,5 +1,27 @@
 https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
 
+Versión 1.08:
+	-Clases
+		
+	-SubClases
+
+	-Conjuros
+
+
+	-Monstruos
+
+
+	-Objetos
+
+
+	-Trasfondos
+
+	-Razas
+
+
+	-Rasgos
+
+
 Versión 1.07:
 	-Clases
 		
@@ -11,8 +33,8 @@ Versión 1.07:
 
 	-Conjuros
 		Hoja Resonante - Reconfigurado
-		Escopeta- Conjure Barrage
-		Disparo Explosivo - Lighting arrow
+		Conjurar Descarga de Proyectiles - Conjure Barrage
+		Flecha de Relámpago - Lighting arrow
 
 	-Monstruos
 		Abisahi Blanco
