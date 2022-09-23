@@ -2,13 +2,21 @@ https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
 
 Versión 1.08:
 	-Clases
+		Mago - Reconfigurado
 		
 	-SubClases
+		Mago: Canto de la Hoja
+		Mago: Escuela de Abjuración - Reconfigurado
+		Mago: Escuela de Evocación - Reconfigurado
 
 	-Conjuros
 
 
 	-Monstruos
+		Aprendiz de Mago (MPMM)
+		Mago Transmutador
+		Sirénido
+		Gigante de Escarcha
 
 
 	-Objetos
@@ -17,7 +25,7 @@ Versión 1.08:
 	-Trasfondos
 
 	-Razas
-
+		Dracónido Metálico
 
 	-Rasgos
 
