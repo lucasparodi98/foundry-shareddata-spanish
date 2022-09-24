@@ -20,9 +20,12 @@ Versión 1.08:
 
 
 	-Objetos
+		Espada Larga de Hierro de Escarcha
+		Espada Solar
 
 
 	-Trasfondos
+		Héroe del Pueblo
 
 	-Razas
 		Dracónido Metálico

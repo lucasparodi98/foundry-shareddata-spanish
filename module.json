@@ -3,7 +3,7 @@
  	"title": "Shared Data",   
  	"description": "Archivo compartido en Español para Dnd5e",   
  	"author": "Lucas",
- 	"version": "1.0702",
+ 	"version": "1.0703",
  	"minimumCoreVersion": "10",
 	"compatibleCoreVersion":"10",
 	"download": "https://github.com/lucasparodi98/foundry-shareddata-spanish/archive/refs/heads/master.zip",
