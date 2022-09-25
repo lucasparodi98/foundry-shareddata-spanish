@@ -14,12 +14,16 @@ Versión 1.08:
 
 	-Monstruos
 		Aprendiz de Mago (MPMM)
+		Capitán
 		Mago Transmutador
+		Mago Abjurador
 		Sirénido
 		Gigante de Escarcha
+		Oso Lechuza Gran Cuerno
 
 
 	-Objetos
+		Armadura de Placas de Mithral		
 		Espada Larga de Hierro de Escarcha
 		Espada Solar
 
