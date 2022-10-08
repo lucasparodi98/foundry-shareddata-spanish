@@ -15,14 +15,27 @@ Versión 1.08:
 	-Monstruos
 		Aprendiz de Mago (MPMM)
 		Capitán
+		Cazador de Huevos Adulto
+		Cría de Cazador de Huevos
+		Dragón Azul Joven Zombi (TOB2)
+		Deslizador de la Progenie Blanca
+		Gigante de Escarcha
+		Gigante de Escarcha Pesado (MME3)
+		Guardaespaldas, Élite (MME)
+		Guardián Escudo
+		Guerrero Tribal
 		Mago Transmutador
 		Mago Abjurador
+		Mago de Batalla (CC)
 		Sirénido
-		Gigante de Escarcha
-		Oso Lechuza Gran Cuerno
+		
+		Oso Lechuza Gran Cuerno (MME)
+		Oso Polar
+		Pico de Hacha
 
 
 	-Objetos
+		Anillo de Almacenamiento de Conjuros
 		Armadura de Placas de Mithral		
 		Espada Larga de Hierro de Escarcha
 		Espada Solar
