@@ -2,12 +2,17 @@ https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
 
 Versión 1.08:
 	-Clases
+		Explorador - Reconfigurado
 		Mago - Reconfigurado
 		
 	-SubClases
+		Brujo: El Inmortal
+		Explorador: Cazador - Reconfigurado
 		Mago: Canto de la Hoja
 		Mago: Escuela de Abjuración - Reconfigurado
 		Mago: Escuela de Evocación - Reconfigurado
+		Pícaro: Almafilada
+
 
 	-Conjuros
 
