@@ -7,6 +7,7 @@ Versión 1.08:
 		
 	-SubClases
 		Brujo: El Inmortal
+		Clérigo: Dominio de la Guerra
 		Explorador: Cazador - Reconfigurado
 		Mago: Canto de la Hoja
 		Mago: Escuela de Abjuración - Reconfigurado
@@ -22,10 +23,17 @@ Versión 1.08:
 		Capitán
 		Cazador de Huevos Adulto
 		Cría de Cazador de Huevos
+		Cría de Dragón de Plata 
 		Dragón Azul Joven Zombi (TOB2)
+		Dragón de Plata Anciano
+		Dragón de Plata Adulto
+		Dragón de Plata Joven
+
 		Deslizador de la Progenie Blanca
+		Gigante de las Colinas Berserker (MME)
 		Gigante de Escarcha
 		Gigante de Escarcha Pesado (MME3)
+		Gouger (MME2)
 		Guardaespaldas, Élite (MME)
 		Guardián Escudo
 		Guerrero Tribal
