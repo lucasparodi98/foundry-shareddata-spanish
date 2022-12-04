@@ -3,12 +3,15 @@ https://github.com/krbz999/dicerecharge/releases/latest/download/module.json
 Versión 1.08:
 	-Clases
 		Explorador - Reconfigurado
+		Guerrero - Reconfigurado
 		Mago - Reconfigurado
 		
 	-SubClases
 		Brujo: El Inmortal
 		Clérigo: Dominio de la Guerra
 		Explorador: Cazador - Reconfigurado
+		Explorador: Guardadracos - Reconfigurado
+		Guerrero: Campeón - Reconfigurado
 		Mago: Canto de la Hoja
 		Mago: Escuela de Abjuración - Reconfigurado
 		Mago: Escuela de Evocación - Reconfigurado
@@ -44,6 +47,7 @@ Versión 1.08:
 		
 		Oso Lechuza Gran Cuerno (MME)
 		Oso Polar
+		Pulpo Gigante
 		Pico de Hacha
 
 
