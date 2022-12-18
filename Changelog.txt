@@ -43,6 +43,8 @@ Versión 1.08:
 		Mago Transmutador
 		Mago Abjurador
 		Mago de Batalla (CC)
+		Merrow
+		Merrow Shaman (MME)
 		Sirénido
 		
 		Oso Lechuza Gran Cuerno (MME)
@@ -94,6 +96,7 @@ Versión 1.07:
 		Cubo Gelatinoso
 		Contemplador
 		Estatua de Piedra/Hierro/Madera Animada (Monster Manual Expanded)
+		Gladiador
 		Mimeto
 		Sahuagin
 		Sacerdotisa Sahuagin
