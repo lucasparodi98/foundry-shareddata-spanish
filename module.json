@@ -1,246 +1,280 @@
-{   
- 	"name": "SharedData",   
- 	"title": "Shared Data",   
- 	"description": "Archivo compartido en Español para Dnd5e",   
- 	"author": "Lucas",
- 	"version": "1.0718",
- 	"minimumCoreVersion": "10",
-	"compatibleCoreVersion":"10",
-	"download": "https://github.com/lucasparodi98/foundry-shareddata-spanish/archive/refs/heads/master.zip",
-	"manifest": "https://raw.githubusercontent.com/lucasparodi98/foundry-shareddata-spanish/master/module.json",
-	"esmodules": [
-    "./js/clases.js"
-	],
+{
+  "title": "Shared Data",
+  "description": "Archivo compartido en Español para Dnd5e",
+  "version": "1.0719",
+  "download": "https://github.com/lucasparodi98/foundry-shareddata-spanish/archive/refs/heads/master.zip",
+  "manifest": "https://raw.githubusercontent.com/lucasparodi98/foundry-shareddata-spanish/master/module.json",
+  "esmodules": [
+    "js/clases.js"
+  ],
   "relationships": {
     "systems": [
       {
         "id": "dnd5e",
         "type": "system",
         "compatibility": {
-          "minimum": "2.0.1",
-          "compatible": "2.0.1"
+          "minimum": "2.0.1"
         }
       }
     ],
     "requires": [
       {
         "id": "socketlib",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "lib-wrapper",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
-	"packs": [
+  "packs": [
     {
       "name": "objetos",
       "label": "Objetos",
       "path": "packs/objetos.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "objetos-homebrew",
       "label": "Objetos Homebrew",
       "path": "packs/objetos-homebrew.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "monstruos",
       "label": "Monstruos",
       "path": "packs/monstruos.db",
-      "entity": "Actor",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Actor",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "monstruos-homebrew",
       "label": "Monstruos Homebrew",
       "path": "packs/monstruos-homebrew.db",
-      "entity": "Actor",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Actor",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "npc",
       "label": "NPC",
       "path": "packs/npc.db",
-      "entity": "Actor",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Actor",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "pc",
       "label": "PC",
       "path": "packs/pc.db",
-      "entity": "Actor",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Actor",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "escenarios",
       "label": "Escenarios",
       "path": "packs/escenarios.db",
-      "entity": "Scene",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Scene",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "clases",
       "label": "Clases",
       "path": "packs/clases.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "razas",
       "label": "Razas",
       "path": "packs/razas.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "subclases",
       "label": "Subclases",
       "path": "packs/subclase.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "rasgos",
       "label": "Rasgos",
       "path": "packs/rasgos.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "rasgos-homebrew",
       "label": "Rasgos Homebrew",
       "path": "packs/rasgos-homebrew.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "rasgos-razas",
       "label": "Rasgos Raciales",
       "path": "packs/rasgos-razas.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "rasgos-trasfondos",
       "label": "Rasgos Trasfondos",
       "path": "packs/rasgos-trasfondos.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "trasfondos",
       "label": "Trasfondos",
       "path": "packs/trasfondos.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "mis-macros",
       "label": "Mis Macros",
       "path": "packs/mis-macros.db",
-      "entity": "Macro",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Macro",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "journal",
       "label": "Documentos",
       "path": "packs/journal.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "lugares",
       "label": "Lugares",
       "path": "packs/lugares.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "dioses",
       "label": "Dioses",
       "path": "packs/dioses.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "reinos-olvidados",
       "label": "Reinos Olvidados",
       "path": "packs/reinos-olvidados.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "facciones",
       "label": "Facciones",
       "path": "packs/facciones.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "reglas",
       "label": "Reglas",
       "path": "packs/reglas.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "homebrew-reglas",
       "label": "Reglas Homebrew",
       "path": "packs/homebrew-reglas.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "historia",
       "label": "Historia",
       "path": "packs/historia.db",
-      "entity": "JournalEntry",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "tablas",
       "label": "Tablas",
       "path": "packs/tablas.db",
-      "entity": "RollTable",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "RollTable",
+      "private": false,
+      "flags": {}
     },
     {
       "name": "conjuros",
       "label": "Conjuros",
       "path": "packs/conjuros.db",
-      "entity": "Item",
       "system": "dnd5e",
-      "module": "SharedData"
+      "type": "Item",
+      "private": false,
+      "flags": {}
     }
-  ]
- }
+  ],
+  "id": "SharedData",
+  "authors": [
+    {
+      "name": "Lucas",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
