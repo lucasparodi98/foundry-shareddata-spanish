@@ -1,0 +1,19 @@
+<form class="flexcol">
+
+  <div class="form-group">
+    <label for="configType">Tipo Dato: </label>
+    <select name="configType">
+      {{#select itemName}}
+        {{#each itemName as |name key|}}
+          <option value="{{key}}">{{name}}</option>
+        {{/each}}
+      {{/select}}
+    </select>
+  </div>
+  <footer class="sheet-footer flexrow">
+    <button type="submit" name="submit">
+        <i class="fa fa-check"></i> Aceptar
+    </button>
+  </footer>
+  
+</form>
