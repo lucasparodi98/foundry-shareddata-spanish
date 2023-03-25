@@ -1,7 +1,7 @@
 {
   "title": "Shared Data",
   "description": "Archivo compartido en Español para Dnd5e",
-  "version": "1.0723",
+  "version": "1.0724",
   "download": "https://github.com/lucasparodi98/foundry-shareddata-spanish/archive/refs/heads/master.zip",
   "manifest": "https://raw.githubusercontent.com/lucasparodi98/foundry-shareddata-spanish/master/module.json",
   "esmodules": [
